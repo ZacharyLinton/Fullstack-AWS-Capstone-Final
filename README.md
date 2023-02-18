@@ -31,6 +31,7 @@ To set up this web application, follow these steps:
 - AWS API Gateway
 - AWS DynamoDB
 - AWS CloudFront
+- (Optional: SNS)
 
 ## Author
 
